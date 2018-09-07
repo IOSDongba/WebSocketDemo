@@ -1,4 +1,4 @@
-# SJWebSocketDemo
+# 将SJWebSocketDemo UI 修改了一下
 
 使用SocketRocket 进行websocket长连接
 
